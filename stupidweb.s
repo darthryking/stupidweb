@@ -19,7 +19,7 @@ htmlBody:
     .asciz  "<h1>Hello, world!</h1><h2>You are visitor #%u</h2><p>%s</p>"
     
 paragraph:
-    .asciz  "This is an HTML web page generated dynamically by x86 assembly code.<br /><br />Somebody kill me now. :("
+    .asciz  "This is an HTML web page generated dynamically by x86 assembly code.<br /><br />Someone save me. :("
     
 httpResponse404:
     .asciz  "HTTP/1.0 404 Not Found\r\n\r\n"
