@@ -1,3 +1,3 @@
 all:
-	gcc -m32 -c web.s
-	gcc -m32 web.o -o web
+	gcc -m32 -c stupidweb.s
+	gcc -m32 stupidweb.o -o stupidweb
